@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Daily Quotes</string>
+    <string name="sample">\"The problem is not the problem. The problem is your attitude about the problem.\"</string>
+    <string name="author">-- Jack Sparrow</string>
+    <string name="sample2">The problem is not the problem. The problem is your attitude about the problem.</string>
+    <string name="author2">Jack Sparrow</string>
+</resources>

@@ -2,4 +2,4 @@
 
 Get many popular quotes to bright your day
 
-[Screenshots:](https://github.com/didikk/dailyquotes/tree/master/images)
+![](https://github.com/didikk/dailyquotes/blob/master/images/main.png)
